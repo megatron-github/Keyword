@@ -2,10 +2,6 @@
  *****************************************************************************
    FILE:        keyword.py
 
-   ASSIGNMENT:  Project 4: Cipher
-
-   DATE:        9/19/18
-
    DESCRIPTION: This program will allow you to input an encrypted phrase and 
                 a key word. Then it is going to contrast the location of
                 the words in the encrypted phrase and the key word in the 
