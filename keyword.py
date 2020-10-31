@@ -1,8 +1,6 @@
 """
  *****************************************************************************
-   FILE:        decrypt.py
-                
-   AUTHOR:      Truong Pham
+   FILE:        keyword.py
 
    ASSIGNMENT:  Project 4: Cipher
 
