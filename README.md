@@ -1,5 +1,5 @@
 # keyword
-An introducing program for beginning Python programmers
+An introduction to Python programming
 
 You are an Orc cryptanalyst working for the wizard Saruman from an undisclosed location near Emyn Arnen. Allies have intercepted a message that originated in Lothlórien; it appears to have been on its way to Helm’s Deep when the messenger was captured.
 
