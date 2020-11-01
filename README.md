@@ -25,7 +25,7 @@ Your program will simulate the work of the many Orcs in your command, who will o
 
 The user will input the captured_text (the ciphertext) and a keyword, and some clues to search for. Your program should decrypt the captured text and check it for these clues that indicate a useful decryption. In addition, the report() and main() functions are already written for you. 
 
-Here is a sample interaction with the program. Bold/underlined values indicate user input.
+Here is a sample interaction with the program.
 
 Enter the captured text: FLVYM NFZKQ MVVZL YSIUM DBOOV
 Enter a keyword: MERRY
