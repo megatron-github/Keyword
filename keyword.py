@@ -95,6 +95,7 @@ def main():
     """ This function is provided in full. Its job is to control
     the flow of the program, and offload the details to the
     other functions. """
+    
     captured_text = input('Enter the captured text: ')
     keyword = input('Enter a keyword: ')
     clues = input('Enter the clues separated by one space: ')
